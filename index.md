@@ -12,7 +12,7 @@
 [https://qiita.com/Y0KUDA](https://qiita.com/Y0KUDA)
 
 ## AtCoder
-[https://twitter.com/Y0KUDA](https://twitter.com/Y0KUDA)
+[https://atcoder.jp/users/yokuda](https://atcoder.jp/users/yokuda)
 
 ## Kaggle
 [https://www.kaggle.com/y0kuda](https://www.kaggle.com/y0kuda)
