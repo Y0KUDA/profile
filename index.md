@@ -19,3 +19,6 @@
 
 ## Visual Studio Marketplace
 [https://marketplace.visualstudio.com/publishers/Y0KUDA](https://marketplace.visualstudio.com/publishers/Y0KUDA)
+
+## LAPRAS
+[https://lapras.com/public/ASZLKRT](https://lapras.com/public/ASZLKRT)
